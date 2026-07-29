@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.herokuapp.com/height=150&type=wave&color=gradient&customColorList=10&height=150&text=navadeep2&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header wave banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=10&height=150&text=navadeep2&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header wave banner" />
 </div>
 
 <div align="center">
@@ -25,10 +25,10 @@
 
 ### 🚀 About Me
 
-Software Engineer focused on full stack development and building engineering portfolios.
+Software Engineer focused on full stack development, creating custom web engines, automating workflows, and building engineering tools.
 
-- 💻 **Software Engineering:** Foundations in computer science and clean code.
-- 🌐 **Full-Stack Development:** Architecting web applications using modern stacks.
+- 💻 **Software Engineering:** Foundations in computer science, system integration, and automation tools.
+- 🌐 **Full-Stack Development:** Architecting web applications using modern programming paradigms.
 - 🤝 **Open to:** Open source contributions.
 
 ---
@@ -57,26 +57,163 @@ Software Engineer focused on full stack development and building engineering por
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Agentic Workflows** | Intermediate | Using automated assistant tools and developer workflows. |
+| **Computer Vision** | Intermediate | Virtual try-on interfaces and image processing pipelines. |
+| **Agentic Workflows** | Intermediate | Automated developer toolchains and interactive state flows. |
 
 ---
 
 ### 📁 Featured Projects
 
 <details>
-<summary>⚡ <b>Resume Platform</b></summary>
+<summary>⚡ <b>Virtual Try-On</b></summary>
 
-#### Personal Portfolio and Resume Website
-A web-based personal hosting space for showcasing experience, project history, and software capabilities.
+#### Virtual Try-On Application
+An interactive virtual try-on engine focusing on computer vision and user-interactive image layouts.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | Python, JavaScript, CSS, HTML |
+| **Scale** | Desktop & Web Prototype |
+| **Performance** | Dynamic frame rendering |
+| **Security** | Safe model inference environments |
+| **Impact** | Enhances digital dressing experiences |
+| **Repository** | [navadeep2/Virtual-Try-On](https://github.com/navadeep2/Virtual-Try-On) |
+
+</details>
+
+<details>
+<summary>⚡ <b>Smart Bookmarks</b></summary>
+
+#### Dynamic Bookmark Management
+A smart system designed to categorize, clean, and organize user-defined browser navigation paths.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | JavaScript, HTML, CSS |
+| **Scale** | Browser client environment |
+| **Performance** | Fast search indexes |
+| **Security** | Local browser storage privacy |
+| **Impact** | Improves daily research workflows |
+| **Repository** | [navadeep2/smart_bookmarks](https://github.com/navadeep2/smart_bookmarks) |
+
+</details>
+
+<details>
+<summary>⚡ <b>Learning Task Manager</b></summary>
+
+#### Task and Goal Management Tool
+A structured task manager aimed at monitoring academic steps, coding milestones, and custom tasks.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | JavaScript, HTML, CSS |
+| **Scale** | Single-user dashboard |
+| **Performance** | Instant updates of milestones |
+| **Security** | Local client state storage |
+| **Impact** | Boosts task completion visibility |
+| **Repository** | [navadeep2/learning_task_manager](https://github.com/navadeep2/learning_task_manager) |
+
+</details>
+
+<details>
+<summary>⚡ <b>CI/CD Generator</b></summary>
+
+#### Continuous Integration Config Builder
+An automatic generator to format and build target pipeline configuration scripts.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | JavaScript, HTML, CSS |
+| **Scale** | Developer helper tool |
+| **Performance** | Immediate config generation |
+| **Security** | Offline script rendering |
+| **Impact** | Streamlines workspace setups |
+| **Repository** | [navadeep2/ci-cd-generator](https://github.com/navadeep2/ci-cd-generator) |
+
+</details>
+
+<details>
+<summary>⚡ <b>Speed Typing Test</b></summary>
+
+#### Keyboard Input Speed Trainer
+An interactive web engine calculating real-time keystroke stats and character typing accuracy.
 
 | Metric | Detail |
 | :--- | :--- |
 | **Stack** | HTML, CSS, JavaScript |
-| **Scale** | Single-user deployment |
-| **Performance** | Fast page loading and static hosting |
-| **Security** | GitHub Pages deployment |
-| **Impact** | Serves as the primary candidate portal for recruiters |
-| **Repository** | [navadeep2/resume](https://github.com/navadeep2) |
+| **Scale** | Instant browser runtime |
+| **Performance** | Keystroke timing tracking |
+| **Security** | Sandbox client environment |
+| **Impact** | Sharpens keyboard capabilities |
+| **Repository** | [navadeep2/speed-typing-test](https://github.com/navadeep2/speed-typing-test) |
+
+</details>
+
+<details>
+<summary>⚡ <b>Message App</b></summary>
+
+#### Real-time messaging service
+A messaging space supporting instant communication exchanges and active chat threads.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | Node.js, WebSockets, HTML, CSS, JavaScript |
+| **Scale** | Multi-client connection states |
+| **Performance** | Minimal messaging latency |
+| **Security** | Clean connection validations |
+| **Impact** | Modern real-time communication platform |
+| **Repository** | [navadeep2/message-app](https://github.com/navadeep2/message-app) |
+
+</details>
+
+<details>
+<summary>⚡ <b>Personal Finance Management</b></summary>
+
+#### Personal Finance & Expense Tracker
+A comprehensive transaction monitoring manager designed to aggregate expense patterns.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | JavaScript, HTML, CSS, Node.js |
+| **Scale** | Personal hosting setup |
+| **Performance** | Dynamic dataset calculation |
+| **Security** | Client data encryption |
+| **Impact** | Budgeting visibility optimizations |
+| **Repository** | [navadeep2/personal-finance-mangement](https://github.com/navadeep2/personal-finance-mangement) |
+
+</details>
+
+<details>
+<summary>⚡ <b>Healthcare Appointment System</b></summary>
+
+#### Patient-Provider Scheduler
+A portal targeting clinical consultation workflows and healthcare meeting schedules.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | Node.js, Database Engine, HTML, CSS |
+| **Scale** | Hospital mock backend |
+| **Performance** | Optimized booking validation |
+| **Security** | Role-based verification checks |
+| **Impact** | Streamlines scheduling operations |
+| **Repository** | [navadeep2/health-care-appointment-system](https://github.com/navadeep2/health-care-appointment-system) |
+
+</details>
+
+<details>
+<summary>⚡ <b>Personal Finance Tracker</b></summary>
+
+#### Ledger Logging Framework
+A minimalist transaction logger for immediate entry mapping.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | Python, Sqlite, Markdown |
+| **Scale** | Command line / script runner |
+| **Performance** | Quick database reads |
+| **Security** | Protected local SQLite file |
+| **Impact** | Eliminates spreadsheet overheads |
+| **Repository** | [navadeep2/PERSONAL-FINANCE-TRACKER](https://github.com/navadeep2/PERSONAL-FINANCE-TRACKER) |
 
 </details>
 
@@ -152,7 +289,7 @@ A web-based personal hosting space for showcasing experience, project history, a
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/navadeep2/navadeep2/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" onerror="this.src='https://github.com/navadeep2/navadeep2/raw/main/github-contribution-grid-snake.svg'" />
+  <img src="https://github.com/navadeep2/navadeep2/raw/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" onerror="this.src='https://github.com/navadeep2/navadeep2/raw/main/github-contribution-grid-snake.svg'" />
 </div>
 
 ---
@@ -188,5 +325,5 @@ open_to:
 <div align="center">
   <i>"Clean code always looks like it was written by someone who cares."</i>
   <br /><br />
-  <img src="https://capsule-render.herokuapp.com/height=80&type=rect&color=gradient&customColorList=10&height=80" width="100%" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10&height=80" width="100%" alt="Footer banner" />
 </div>
